@@ -1,0 +1,9 @@
+name: Initial-access
+description: The adversary is trying to get into your network.
+atomic_ordering:
+- 0a69420bec84b02bd47464f6835653b1
+- 1afaec09315ab71fdfb167175e8a019a
+- 3322685a889bb005c20688f56ed022df
+- 4f0c66956fc56e1ab11f4a1e394a4fd0
+adversary_id: 103c6b92-3294-4dc6-8fbb-84723046eb28
+objective: 495a9828-cab1-44dd-a0ca-66e58177d8cc

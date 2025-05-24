@@ -1,0 +1,7 @@
+name: Reconnaissance
+description: The adversary is trying to gather information they can use to plan future operations.
+atomic_ordering:
+- 088cde1c10d333d92231f4b8be55ad12
+- 53861bc51eb67cb9775c95b9e02ad141
+adversary_id: 1ccfeddf-d6d1-4f6c-be26-71505f2ee91c
+objective: 495a9828-cab1-44dd-a0ca-66e58177d8cc

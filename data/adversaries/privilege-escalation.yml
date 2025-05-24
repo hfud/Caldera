@@ -1,0 +1,15 @@
+name: Privilege-escalation
+description: The adversary is trying to gain higher-level permissions.
+atomic_ordering:
+- 665432a4-42e7-4ee1-af19-a9a8c9455d0c
+- b7344901-0b02-4ead-baf6-e3f629ed545f
+- 95ad5d69-563e-477b-802b-4855bfb3be09
+- e99cce5c-cb7e-4a6e-8a09-1609a221b90a
+- e3db134c-4aed-4c5a-9607-c50183c9ef9e
+- cc5fa0d8-6e41-432b-a74a-d7cfc6c35d8f
+- adb82c71f0d1c9fc22bcc7de4d8c65fa
+- ba3554b0cfd41b45bf16250b9afb1cca
+- d55b419a683d8b328f8f8d01dfc08148
+- 10681f2f-be03-44af-858d-f2b0812df185
+adversary_id: 2b57df83-7a6a-4cc4-9fac-fec2b2383457
+objective: 495a9828-cab1-44dd-a0ca-66e58177d8cc
